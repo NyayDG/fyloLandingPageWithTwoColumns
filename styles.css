@@ -1,0 +1,119 @@
+/* FIRST PAGE */
+
+table td {
+    padding: 10px; /* Adjust the value to set the desired spacing */
+    padding-right: 50px;
+  }
+
+.firstPageImage {
+    width: 100%;
+}
+
+.firstPageContainerForFlex {
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+}
+
+.firstPageMessageBoxForText {
+    margin-left: -70px;
+}
+
+.firstPageMessageBoxForImage {
+    padding-left: 90px;
+}
+
+.enterYourEmailBox {
+    padding: 5px;
+    padding-right: 30px;
+    margin-left: -10px;
+}
+
+.getStartedButton {
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: -40px;
+}
+
+.backgroundCurveImage {
+    width: 100%;
+    padding-top: 100px;
+}
+
+/* SECOND PAGE */
+
+.secondPage {
+    background-color: rgb(249, 248, 254);
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.secondPageMessageBoxForText {
+    margin-left: -70px;
+}
+
+.aTagInSecondPage {
+    text-decoration: underline;
+    color: green;
+}
+
+.divInMessageBoxOfSecondPage {
+    margin-top: 30px;
+    width: 50%;
+    background-color: white;
+    border-radius: 8px;
+    border: none;
+    box-shadow: 2px 2px 5px 2px gainsboro;
+}
+
+.kyleBurtonDiv {
+    padding: 20px;
+}
+
+.avatarTestimonial {
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+}
+
+.secondPageMessageBoxForImage {
+    padding-left: 90px;
+}
+
+.secondPageImage {
+    width: 100%;
+}
+
+/* THIRD PAGE */
+
+.thirdPagePartOne {
+    background-color: rgb(87, 89, 137);
+    color: white;
+    padding: 100px;
+}
+
+.thirdPageEmail {
+    width: 65%;
+    padding: 5px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    border: none;
+}
+
+.thirdPagePartTwo {
+    background-color: rgb(7, 4, 59);
+    color: white;
+    padding: 100px;
+}
+
+.thirdPagePartTwoFlex {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 30px;
+    margin-left: -105px;
+}
+
+.twitterIcon {
+    padding-left: 10px;
+    padding-right: 10px;
+}
